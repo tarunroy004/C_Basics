@@ -22,7 +22,7 @@ int main(){
     char ab;
     printf("Do you want Substraction :- ");
     scanf("%s", &ab);
-    if(ab = 'yes'){
+    if (ab = 'yes'){
        printf("Subtraction is :- %d\n", sub(a,b));
     }
     return 0;
